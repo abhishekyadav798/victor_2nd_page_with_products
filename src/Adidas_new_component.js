@@ -58,7 +58,7 @@ function Adidas_new_component() {
     }
 
   return (
-    <div>
+    <div id='victor-style'>
         <Row>
             <Col>
             <Card onMouseEnter={() => setIsShown(true)}
